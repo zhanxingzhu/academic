@@ -1,0 +1,6 @@
+{
+  "name": "Zhanxing Zhu",
+  "tagline": "Ph.D in machine learning and large-scale optimization.",
+  "body": "### Welcome to my personal academic website.\r\nI have joined Beijing Institute of Big Data Research (BIBDR) after finishing my Ph.D in Machine Learning in The University of Edinburgh in the School of Informatics. My academic advisor is Amos Storkey. I am a member of the Institute for Adaptive and Neural Computation . \r\n\r\nMy research interest is between machine learning models and optimization, specially on how to apply stochastic methods and multi-agent mechanism into parallelising machine learning models to handle massive data. Recently I has been looking at fast methods for optimization in deep learning, and Langevin dynamics for large-scale Bayesian sampling. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
